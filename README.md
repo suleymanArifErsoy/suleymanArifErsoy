@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suleyman+Arif!+👨🏻‍💻;"/>
 </h1>
 
-<h3 align="center">I am a computer engineering student in TR 🇹🇷</h3>
+<h3 align="center">I am a computer engineering in TR 🇹🇷</h3>
 <br/>
 <div align="center">
  
- 🎓 Im currently studying **computer engineering**.
+ 🎓 I am currently pursuing a master's degree in computer engineering.**.
  
- 🌱 I’m currently learning **python artificial intelligence Language**.
+ 🌱 I am currently developing myself in the field of artificial intelligence.**.
 
  </div>
  <div align="center"> 
